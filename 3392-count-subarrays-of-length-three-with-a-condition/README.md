@@ -16,7 +16,7 @@
 <p><strong class="example">Example 2:</strong></p>
 
 <div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">nums = [1,1,1]</span></p>
+<p><strong>Input:</strong> <span class="example-io">nums = [1,1,1]</span></p>  
 
 <p><strong>Output:</strong> <span class="example-io">0</span></p>
 
