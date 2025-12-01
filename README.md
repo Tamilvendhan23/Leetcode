@@ -38,7 +38,7 @@ Contributions are welcome! If you would like to:
 
 - Add solutions in new languages,
 - Improve explanations or add tests,
-- Fix formatting or typos,
+- Fix formatting or typos
 
 please open a pull request. If you plan to contribute many files, open an issue first to discuss structure and naming.
 
