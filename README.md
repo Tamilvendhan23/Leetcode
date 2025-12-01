@@ -1,4 +1,4 @@
-# Leetcode Solutions Repository
+# Leetcode Solutions Repository 🗃️ 
 
 Welcome to the **Leetcode Solutions** repository!
 This repository contains solutions to a wide range of LeetCode problems to help with learning algorithms and preparing for technical interviews.
