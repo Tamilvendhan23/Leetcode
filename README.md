@@ -18,7 +18,6 @@ Example layout:
 ...
 3169-count-days-without-meetings/
 README.md
-...
 
 ```
 
