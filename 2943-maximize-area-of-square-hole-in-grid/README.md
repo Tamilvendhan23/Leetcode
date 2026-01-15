@@ -39,6 +39,7 @@
 
 <p><img alt="" src="https://assets.leetcode.com/uploads/2024/03/12/unsaved-image-2.png" style="width: 648px; height: 218px;" /></p>
 
+
 <div class="example-block" style="border-color: var(--border-tertiary); border-left-width: 2px; color: var(--text-secondary); font-size: .875rem; margin-bottom: 1rem; margin-top: 1rem; overflow: visible; padding-left: 1rem;">
 <p><strong>Input: </strong><span class="example-io" style="font-family: Menlo,sans-serif; font-size: 0.85rem;">n = 2, m = 3, hBars = [2,3], vBars = [2,4]</span></p>
 
