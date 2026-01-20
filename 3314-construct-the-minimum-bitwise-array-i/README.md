@@ -14,7 +14,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">[-1,1,4,3]</span></p>
 
-<p><strong>Explanation:</strong></p>
+<p><strong>Explanation :</strong></p>
 
 <ul>
 	<li>For <code>i = 0</code>, as there is no value for <code>ans[0]</code> that satisfies <code>ans[0] OR (ans[0] + 1) = 2</code>, so <code>ans[0] = -1</code>.</li>
