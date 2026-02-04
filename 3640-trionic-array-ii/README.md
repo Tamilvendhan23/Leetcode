@@ -8,6 +8,7 @@
 	<li data-end="347" data-start="310"><code data-end="321" data-start="310">nums[q...r]</code> is <strong>strictly</strong> increasing.</li>
 </ul>
 
+
 <p data-end="609" data-is-last-node="" data-is-only-node="" data-start="349">Return the <strong>maximum</strong> sum of any trionic subarray in <code data-end="417" data-start="411">nums</code>.</p>
 
 <p>&nbsp;</p>
