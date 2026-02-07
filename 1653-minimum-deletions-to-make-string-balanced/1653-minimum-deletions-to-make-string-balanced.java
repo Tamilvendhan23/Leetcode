@@ -6,6 +6,7 @@ class Solution {
         int[] countB = new int[n];
         int bCount = 0;
 
+        
         // First pass: compute count_b which stores the number of
         // 'b' characters to the left of the current position.
         for (int i = 0; i < n; i++) {
