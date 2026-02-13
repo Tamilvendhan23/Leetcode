@@ -4,6 +4,7 @@
 
 <p>Return the length of the <strong>longest</strong> balanced subarray.</p>
 
+
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
