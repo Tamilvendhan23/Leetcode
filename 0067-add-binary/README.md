@@ -1,5 +1,6 @@
 <h2><a href="https://leetcode.com/problems/add-binary/?envType=daily-question&envId=2026-02-15">67. Add Binary</a></h2><h3>Easy</h3><hr><p>Given two binary strings <code>a</code> and <code>b</code>, return <em>their sum as a binary string</em>.</p>
 
+
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 <pre><strong>Input:</strong> a = "11", b = "1"
