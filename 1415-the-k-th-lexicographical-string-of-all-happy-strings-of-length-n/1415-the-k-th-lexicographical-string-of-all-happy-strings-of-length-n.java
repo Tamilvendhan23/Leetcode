@@ -30,6 +30,8 @@ class Solution {
             if (
                 currentString.length() > 0 &&
                 currentString.charAt(currentString.length() - 1) == currentChar
+
+                
             ) continue;
 
             // Recursively generate the next character
