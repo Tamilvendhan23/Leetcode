@@ -72,6 +72,7 @@ Happy coding!
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Tamilvendhan23/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Tamilvendhan23/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Tamilvendhan23/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2751-robot-collisions](https://github.com/Tamilvendhan23/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Tamilvendhan23/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Tamilvendhan23/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Tamilvendhan23/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -129,6 +130,7 @@ Happy coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Tamilvendhan23/Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2751-robot-collisions](https://github.com/Tamilvendhan23/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Tamilvendhan23/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -202,6 +204,7 @@ Happy coding!
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tamilvendhan23/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tamilvendhan23/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2751-robot-collisions](https://github.com/Tamilvendhan23/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Tamilvendhan23/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Two Pointers
@@ -217,4 +220,8 @@ Happy coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Tamilvendhan23/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2751-robot-collisions](https://github.com/Tamilvendhan23/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 <!---LeetCode Topics End-->
