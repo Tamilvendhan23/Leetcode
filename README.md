@@ -178,6 +178,7 @@ Happy coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/Tamilvendhan23/Leetcode/tree/main/0396-rotate-function/) | Medium |
+| [0788-rotated-digits](https://github.com/Tamilvendhan23/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Tamilvendhan23/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Tamilvendhan23/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Tamilvendhan23/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -256,6 +257,7 @@ Happy coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/Tamilvendhan23/Leetcode/tree/main/0396-rotate-function/) | Medium |
+| [0788-rotated-digits](https://github.com/Tamilvendhan23/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tamilvendhan23/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Tamilvendhan23/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Tamilvendhan23/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
