@@ -289,6 +289,7 @@ Happy coding!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/Tamilvendhan23/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Tamilvendhan23/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Tamilvendhan23/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Enumeration
@@ -337,4 +338,8 @@ Happy coding!
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Tamilvendhan23/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Tamilvendhan23/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/Tamilvendhan23/Leetcode/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
