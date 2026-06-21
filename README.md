@@ -84,6 +84,7 @@ Happy coding!
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tamilvendhan23/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Tamilvendhan23/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tamilvendhan23/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Tamilvendhan23/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Tamilvendhan23/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Tamilvendhan23/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Tamilvendhan23/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -148,6 +149,7 @@ Happy coding!
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Tamilvendhan23/Leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Tamilvendhan23/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tamilvendhan23/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Tamilvendhan23/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Tamilvendhan23/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Tamilvendhan23/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tamilvendhan23/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -376,6 +378,7 @@ Happy coding!
 | [1340-jump-game-v](https://github.com/Tamilvendhan23/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Tamilvendhan23/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Tamilvendhan23/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Tamilvendhan23/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Tamilvendhan23/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tamilvendhan23/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Tamilvendhan23/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -488,4 +491,8 @@ Happy coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Tamilvendhan23/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Tamilvendhan23/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
