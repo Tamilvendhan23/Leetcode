@@ -1,44 +1,40 @@
-public class Solution {
+class Solution {
+    static int V, D;
 
     public int countCompleteComponents(int n, int[][] edges) {
-        // Adjacency lists for each vertex
-        List<Integer>[] graph = new ArrayList[n];
-        // Map to store frequency of each unique adjacency list
-        Map<List<Integer>, Integer> componentFreq = new HashMap<>();
+        List<Integer>[] A = new ArrayList[n];
+        Arrays.setAll(A, _ -> new ArrayList<>());
 
-        // Initialize adjacency lists with self-loops
-        for (int vertex = 0; vertex < n; vertex++) {
-            graph[vertex] = new ArrayList<>();
-            graph[vertex].add(vertex);
+        for (int[] e : edges) {
+            A[e[0]].add(e[1]);
+            A[e[1]].add(e[0]);
         }
 
-        // Build adjacency lists from edges
-        for (int[] edge : edges) {
-            graph[edge[0]].add(edge[1]);
-            graph[edge[1]].add(edge[0]);
-        }
+        boolean[] vis = new boolean[n];
+        int res = 0;
 
-        // Count frequency of each unique adjacency pattern
-        for (int vertex = 0; vertex < n; vertex++) {
-            List<Integer> neighbors = graph[vertex];
-            Collections.sort(neighbors);
-            componentFreq.put(
-                neighbors,
-                componentFreq.getOrDefault(neighbors, 0) + 1
-            );
-        }
+        for (int i = 0; i < n; i++) {
+            boolean state = vis[i];
 
-        // Count complete components where size equals frequency
-        int completeCount = 0;
-        for (Map.Entry<
-            List<Integer>,
-            Integer
-        > entry : componentFreq.entrySet()) {
-            if (entry.getKey().size() == entry.getValue()) {
-                completeCount++;
+            if (!state) {
+                V = 0; D = 0;
+
+                dfs(i, A, vis);
+
+                if (D == V * (V - 1)) res++;
             }
         }
 
-        return completeCount;
+        return res;
+    }
+
+    private void dfs(int x, List<Integer>[] A, boolean[] vis) {
+        V++;
+        D += A[x].size();
+        vis[x] = true;
+
+        for (int state : A[x])
+            if (!vis[state])
+                dfs(state, A, vis);
     }
 }
