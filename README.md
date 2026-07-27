@@ -69,6 +69,7 @@ Happy coding!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tamilvendhan23/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/Tamilvendhan23/Leetcode/tree/main/0396-rotate-function/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Tamilvendhan23/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Tamilvendhan23/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Tamilvendhan23/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Tamilvendhan23/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -428,6 +429,7 @@ Happy coding!
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Tamilvendhan23/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/Tamilvendhan23/Leetcode/tree/main/0396-rotate-function/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Tamilvendhan23/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/Tamilvendhan23/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Tamilvendhan23/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/Tamilvendhan23/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
@@ -467,6 +469,7 @@ Happy coding!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Tamilvendhan23/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Tamilvendhan23/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Tamilvendhan23/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Tamilvendhan23/Leetcode/tree/main/1340-jump-game-v/) | Hard |
