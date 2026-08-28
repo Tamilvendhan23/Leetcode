@@ -284,6 +284,7 @@ Happy coding!
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/Tamilvendhan23/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Tamilvendhan23/Leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Tamilvendhan23/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Recursion
@@ -590,6 +591,7 @@ Happy coding!
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tamilvendhan23/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Tamilvendhan23/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Tamilvendhan23/Leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tamilvendhan23/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -601,6 +603,7 @@ Happy coding!
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Tamilvendhan23/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Tamilvendhan23/Leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Tamilvendhan23/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
