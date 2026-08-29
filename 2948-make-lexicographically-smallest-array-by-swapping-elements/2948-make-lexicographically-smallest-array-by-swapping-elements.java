@@ -1,41 +1,50 @@
 class Solution {
-
     public int[] lexicographicallySmallestArray(int[] nums, int limit) {
-        int[] numsSorted = new int[nums.length];
-        for (int i = 0; i < nums.length; i++) numsSorted[i] = nums[i];
-        Arrays.sort(numsSorted);
+        int n = nums.length;
 
-        int currGroup = 0;
-        HashMap<Integer, Integer> numToGroup = new HashMap<>();
-        numToGroup.put(numsSorted[0], currGroup);
+        int[] sorted = nums.clone();
+        Arrays.sort(sorted);
 
-        HashMap<Integer, LinkedList<Integer>> groupToList = new HashMap<>();
-        groupToList.put(
-            currGroup,
-            new LinkedList<Integer>(Arrays.asList(numsSorted[0]))
-        );
+        Map<Integer, List<Integer>> group = new HashMap<>();
+        Map<Integer, Integer> groupId = new HashMap<>();
+        Map<Integer, Integer> pos = new HashMap<>();
 
-        for (int i = 1; i < nums.length; i++) {
-            if (Math.abs(numsSorted[i] - numsSorted[i - 1]) > limit) {
-                // new group
-                currGroup++;
+        int id = 1;
+
+        // Build groups
+        group.computeIfAbsent(id, k -> new ArrayList<>()).add(sorted[0]);
+
+        for(int i = 1; i < n; i++){
+            if(sorted[i] - sorted[i - 1] > limit){
+                id++;
             }
 
-            // assign current element to group
-            numToGroup.put(numsSorted[i], currGroup);
-
-            // add element to sorted group list
-            if (!groupToList.containsKey(currGroup)) {
-                groupToList.put(currGroup, new LinkedList<Integer>());
-            }
-            groupToList.get(currGroup).add(numsSorted[i]);
+            group.computeIfAbsent(id, k -> new ArrayList<>()).add(sorted[i]);
         }
 
-        // iterate through input and overwrite each element with the next element in its corresponding group
-        for (int i = 0; i < nums.length; i++) {
-            int num = nums[i];
-            int group = numToGroup.get(num);
-            nums[i] = groupToList.get(group).pop();
+        // Store group id of every value
+        id = 1;
+
+        for(int i = 0; i < n; i++){
+            if(i > 0 && sorted[i] - sorted[i - 1] > limit){
+                id++;
+            }
+
+            groupId.put(sorted[i], id);
+        }
+
+        // Position pointer for each group
+        for(int i = 1; i <= id; i++){
+            pos.put(i, 0);
+        }
+
+        // Rebuild nums using the smallest
+        // available value from its group
+        for(int i = 0; i < n; i++){
+            int grp = groupId.get(nums[i]);
+
+            nums[i] = group.get(grp).get(pos.get(grp));
+            pos.put(grp, pos.get(grp) + 1);
         }
 
         return nums;
