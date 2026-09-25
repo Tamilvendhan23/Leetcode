@@ -270,6 +270,7 @@ Happy coding!
 | [0796-rotate-string](https://github.com/Tamilvendhan23/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tamilvendhan23/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Tamilvendhan23/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Tamilvendhan23/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tamilvendhan23/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -398,6 +399,7 @@ Happy coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/Tamilvendhan23/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Tamilvendhan23/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Tamilvendhan23/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/Tamilvendhan23/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
@@ -442,6 +444,7 @@ Happy coding!
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Tamilvendhan23/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Tamilvendhan23/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -610,6 +613,7 @@ Happy coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tamilvendhan23/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/Tamilvendhan23/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Tamilvendhan23/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Tamilvendhan23/Leetcode/tree/main/1340-jump-game-v/) | Hard |
@@ -683,6 +687,7 @@ Happy coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tamilvendhan23/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tamilvendhan23/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/Tamilvendhan23/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 ## Design
@@ -735,6 +740,7 @@ Happy coding!
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/Tamilvendhan23/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Tamilvendhan23/Leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Tamilvendhan23/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
