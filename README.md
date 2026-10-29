@@ -205,6 +205,7 @@ Happy coding!
 | [3742-maximum-path-score-in-a-grid](https://github.com/Tamilvendhan23/Leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Tamilvendhan23/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Tamilvendhan23/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Tamilvendhan23/Leetcode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tamilvendhan23/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Tamilvendhan23/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -355,6 +356,7 @@ Happy coding!
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Tamilvendhan23/Leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Tamilvendhan23/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Tamilvendhan23/Leetcode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Tamilvendhan23/Leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -544,6 +546,7 @@ Happy coding!
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Tamilvendhan23/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Tamilvendhan23/Leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tamilvendhan23/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Tamilvendhan23/Leetcode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Tamilvendhan23/Leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -785,6 +788,7 @@ Happy coding!
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tamilvendhan23/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Tamilvendhan23/Leetcode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -800,6 +804,7 @@ Happy coding!
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Tamilvendhan23/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tamilvendhan23/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Tamilvendhan23/Leetcode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -865,6 +870,7 @@ Happy coding!
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tamilvendhan23/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3161-block-placement-queries](https://github.com/Tamilvendhan23/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Tamilvendhan23/Leetcode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -877,6 +883,7 @@ Happy coding!
 | [3691-maximum-total-subarray-value-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tamilvendhan23/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Tamilvendhan23/Leetcode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -885,6 +892,7 @@ Happy coding!
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Tamilvendhan23/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Tamilvendhan23/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Tamilvendhan23/Leetcode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
