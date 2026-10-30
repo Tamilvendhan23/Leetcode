@@ -358,6 +358,7 @@ Happy coding!
 | [3838-weighted-word-mapping](https://github.com/Tamilvendhan23/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Tamilvendhan23/Leetcode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Tamilvendhan23/Leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Tamilvendhan23/Leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -603,6 +604,7 @@ Happy coding!
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Tamilvendhan23/Leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Tamilvendhan23/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Tamilvendhan23/Leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -678,6 +680,7 @@ Happy coding!
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Tamilvendhan23/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Tamilvendhan23/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Tamilvendhan23/Leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -914,6 +917,7 @@ Happy coding!
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Tamilvendhan23/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Tamilvendhan23/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Tamilvendhan23/Leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
