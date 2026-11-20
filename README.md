@@ -157,6 +157,7 @@ Happy coding!
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tamilvendhan23/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tamilvendhan23/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tamilvendhan23/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Tamilvendhan23/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Tamilvendhan23/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tamilvendhan23/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Tamilvendhan23/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -443,6 +444,7 @@ Happy coding!
 | [2573-find-the-string-with-lcp](https://github.com/Tamilvendhan23/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Tamilvendhan23/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Tamilvendhan23/Leetcode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Tamilvendhan23/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Tamilvendhan23/Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Tamilvendhan23/Leetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -762,6 +764,7 @@ Happy coding!
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Tamilvendhan23/Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tamilvendhan23/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tamilvendhan23/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Tamilvendhan23/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Tamilvendhan23/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Tamilvendhan23/Leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Tamilvendhan23/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
